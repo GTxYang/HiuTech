@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="QuanLy_HiuTech/src"/>
+	<classpathentry kind="lib" path="QuanLy_HiuTech/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="QuanLy_HiuTech/dist/lib/jstl-api.jar"/>
+	<classpathentry kind="lib" path="QuanLy_HiuTech/dist/lib/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="QuanLy_HiuTech/dist/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="QuanLy_HiuTech/dist/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="QuanLy_HiuTech/dist/QuanLy_HiuTech.jar"/>
+	<classpathentry kind="output" path="QuanLy_HiuTech/build/classes"/>
+</classpath>
